@@ -1,0 +1,14 @@
+{
+  "name": "dos-date",
+  "repo": "yields/dos-date",
+  "description": "get / convert a date to DOS date.",
+  "version": "0.0.1",
+  "keywords": ["dos", "date"],
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": ["index.js"],
+  "development": {
+    "component/assert": "*",
+    "visionmedia/mocha": "*"
+  }
+}
